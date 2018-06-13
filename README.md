@@ -76,7 +76,7 @@ python labelImg.py
 
 ## [darkflow][darkflow]
 
-`darkflow` 는 `[darknet]` 의 tnesorflow 버전입니다.  (darknet은 YOLO를 C로 짠 오픈소스입니다.)  
+`darkflow` 는 `[darknet]` 의 tensorflow 버전입니다.  (darknet은 YOLO를 C로 짠 오픈소스입니다.)  
 [Darknet: Open Source Neural Networks in C][dn]  
 
 멋진 분들이 짜주신 오픈소스입니다.   
